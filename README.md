@@ -9,14 +9,10 @@ I am a **Product Manager** with a **Software Engineering** background. I manage 
 
 | Category | Skills |
 | :--- | :--- |
-| **Product Management** | Product Discovery, PRD Writing, User Stories & Acceptance Criteria, Backlog 
-Management, Feature Prioritization, Roadmapping, MVP/MVF, Market Research, Product Strategy. |
-| **UX & Customer Experience** | User Journey Mapping, Wireframe Review, Usability Principles, Feature 
-Validation, Nielsen's Heuristics, Study user behavior. |
-| **Agile Delivery** | Scrum Framework, Sprint Planning, Refinement, UAT Coordination, Release Planning, 
-Cross-functional Collaboration. |
-| **Technical & Data** | APIs & Integrations, Microservices Concepts, Cloud Computing (Alibaba 
-& Aws), SQL, Web scraping Data Analysis with Python, SaaS Platforms, CI/CD, DevOps Awareness. |
+| **Product Management** | Product Discovery, PRD Writing, User Stories & Acceptance Criteria, Backlog Management, Feature Prioritization, Roadmapping, MVP/MVF, Market Research, Product Strategy. |
+| **UX & Customer Experience** | User Journey Mapping, Wireframe Review, Usability Principles, Feature Validation, Nielsen's Heuristics, Study user behavior. |
+| **Agile Delivery** | Scrum Framework, Sprint Planning, Refinement, UAT Coordination, Release Planning, Cross-functional Collaboration. |
+| **Technical & Data** | APIs & Integrations, Microservices Concepts, Cloud Computing (Alibaba & Aws), SQL, Web scraping Data Analysis with Python, SaaS Platforms, CI/CD, DevOps Awareness. |
 | **Tools** | Jira, Confluence, Figma, Parsehub, Google Analytics, Miro, Github, Postman, Swagger. |
 
 ---
