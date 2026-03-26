@@ -29,7 +29,7 @@ Cross-functional Collaboration. |
 
 ### 🤝 Let's Connect!
 
-- **LinkedIn:** [linkedin.com/in/ali-alhoshan-981498287](https://www.linkedin.com/in/ali-alhoshan-981498287)
+- **LinkedIn:** [linkedin.com/in/ali-alhoshan](https://www.linkedin.com/in/ali-alhoshan-981498287)
 - **Email:** [alial7oshan@gmail.com](mailto:alial7oshan@gmail.com)
 - **Location:** Riyadh, Saudi Arabia 🇸🇦
 
