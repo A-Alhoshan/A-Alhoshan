@@ -1,4 +1,4 @@
-# Hey there, I'm Ali! 👋
+# Hey there! 👋
 
 ### ✨ A bit about me
 I am a **Product Manager** with a **Software Engineering** background. I manage the entire **SDLC**, taking products from initial **ideation** to the hands of **daily users**.
